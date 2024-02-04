@@ -9,4 +9,8 @@ The overall graph looks like this, where each colour is a community
 To show one of the communities:
 ![image info](./images/graph23_output.svg)
 
+The word cloud shows what this particular community is discussing on
+![image info](./images/wordcloud.png)
+
 The Report.pdf file also speaks of the influencers, in these commnuities and the ways to identify them.
+
